@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.da51f65d.css",
-    "main.js": "/static/js/main.0da615e5.js",
+    "main.js": "/static/js/main.44d77f08.js",
     "static/media/wcxj.png": "/static/media/wcxj.f545179f7b74f041bce4.png",
     "static/media/bjbclx.png": "/static/media/bjbclx.847cedbe341ee4162403.png",
     "static/media/mjl3.png": "/static/media/mjl3.c80c0f39ede31b26b5b6.png",
@@ -143,13 +143,14 @@
     "static/media/error2.png": "/static/media/error2.67852798a431f6c77ea0.png",
     "static/media/cf_xf.png": "/static/media/cf_xf.eff6f036ffba23ba2ad7.png",
     "static/media/red2logo.png": "/static/media/red2logo.0975274223b646334670.png",
+    "static/media/error4.png": "/static/media/error4.e38d7264b54f74deedbc.png",
     "static/media/tree_reborn.png": "/static/media/tree_reborn.dd1b045c57ab7a579246.png",
     "index.html": "/index.html",
     "main.da51f65d.css.map": "/static/css/main.da51f65d.css.map",
-    "main.0da615e5.js.map": "/static/js/main.0da615e5.js.map"
+    "main.44d77f08.js.map": "/static/js/main.44d77f08.js.map"
   },
   "entrypoints": [
     "static/css/main.da51f65d.css",
-    "static/js/main.0da615e5.js"
+    "static/js/main.44d77f08.js"
   ]
 }
